@@ -4,7 +4,7 @@ List Swipe with more actions
 
 This is an example App which has a list swipe with more actions. 
 
-The
+
 
 ## Getting Started
 
